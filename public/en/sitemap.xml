@@ -8,12 +8,12 @@
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
-                hreflang="pt-PT"
+                hreflang="pt"
                 href="http://192.168.178.118:1313/pt/authors/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en-US"
+                hreflang="en"
                 href="http://192.168.178.118:1313/authors/"
                 />
   </url><url>
@@ -23,12 +23,12 @@
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
-                hreflang="pt-PT"
+                hreflang="pt"
                 href="http://192.168.178.118:1313/pt/categories/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en-US"
+                hreflang="en"
                 href="http://192.168.178.118:1313/categories/"
                 />
   </url><url>
@@ -58,12 +58,12 @@
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
-                hreflang="pt-PT"
+                hreflang="pt"
                 href="http://192.168.178.118:1313/pt/tags/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en-US"
+                hreflang="en"
                 href="http://192.168.178.118:1313/tags/"
                 />
   </url><url>
@@ -138,12 +138,12 @@
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
-                hreflang="pt-PT"
+                hreflang="pt"
                 href="http://192.168.178.118:1313/pt/about/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en-US"
+                hreflang="en"
                 href="http://192.168.178.118:1313/about/"
                 />
   </url><url>
@@ -183,12 +183,12 @@
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
-                hreflang="pt-PT"
+                hreflang="pt"
                 href="http://192.168.178.118:1313/pt/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en-US"
+                hreflang="en"
                 href="http://192.168.178.118:1313/"
                 />
   </url><url>
@@ -232,12 +232,12 @@
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
-                hreflang="pt-PT"
+                hreflang="pt"
                 href="http://192.168.178.118:1313/pt/series/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en-US"
+                hreflang="en"
                 href="http://192.168.178.118:1313/series/"
                 />
   </url>
