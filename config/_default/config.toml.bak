@@ -5,7 +5,12 @@ copyright = "Open-source <a class=\"text-muted text-decoration-none\" href=\"htt
 
 timeZone = 'Europe/London'
 
+# Multilingual
+defaultContentLanguage = "en"
+defaultContentLanguageInSubdir = false
+
 theme = "hugo-bootstrap-theme"
+#themesdir = "../.."
 
 disableHugoGeneratorInject = true
 enableRobotsTXT = true
@@ -31,3 +36,15 @@ enableEmoji = true
 
 [permalinks]
   post = "/post/:title/"
+
+#[module]
+#  [module.hugoVersion]
+#    extended = true
+#    min = "0.99.1"
+#    max = ""
+#  [[module.mounts]]
+#    source = "assets"
+#    target = "assets"
+#  [[module.mounts]]
+#    source = "static"
+#    target = "static"
