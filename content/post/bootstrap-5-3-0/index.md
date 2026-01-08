@@ -4,10 +4,11 @@ description: "It’s official, the final stable release of v5.3.0 has landed!"
 date: 2023-05-30
 draft: false
 images: ["bootstrap-5-3.png"]
-categories: ["The Bootstrap Blog"]
-tags: ["Bootstrap"]
+categories: ["Running"]
+tags: ["Running"]
 keywords: ["bootstrap 5 3","bootstrap 5","bootstrap"]
-authors: ["Mark Otto"]
+authors: ["Giuseppe Torres"]
+noindex : true
 ---
 
 ![Bootstrap 5 3](bootstrap-5-3.png)

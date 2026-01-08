@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://192.168.178.118:1313/authors/</loc>
-    <lastmod>2026-01-07T16:58:25+00:00</lastmod>
+    <lastmod>2026-01-08T19:57:52+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -18,7 +18,7 @@
                 />
   </url><url>
     <loc>http://192.168.178.118:1313/categories/</loc>
-    <lastmod>2026-01-07T16:58:25+00:00</lastmod>
+    <lastmod>2026-01-08T19:57:52+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -33,27 +33,22 @@
                 />
   </url><url>
     <loc>http://192.168.178.118:1313/authors/giuseppe-torres/</loc>
-    <lastmod>2026-01-07T16:50:40+00:00</lastmod>
+    <lastmod>2026-01-08T19:57:52+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://192.168.178.118:1313/tags/post/</loc>
-    <lastmod>2026-01-07T16:50:40+00:00</lastmod>
+    <loc>http://192.168.178.118:1313/tags/running/</loc>
+    <lastmod>2026-01-08T19:57:52+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>http://192.168.178.118:1313/categories/running/</loc>
-    <lastmod>2026-01-07T16:50:40+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>http://192.168.178.118:1313/post/running-tips/</loc>
-    <lastmod>2026-01-07T16:50:40+00:00</lastmod>
+    <lastmod>2026-01-08T19:57:52+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>http://192.168.178.118:1313/tags/</loc>
-    <lastmod>2026-01-07T16:58:25+00:00</lastmod>
+    <lastmod>2026-01-08T19:57:52+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -87,28 +82,13 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://192.168.178.118:1313/tags/bootstrap/</loc>
-    <lastmod>2026-01-07T16:58:25+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>http://192.168.178.118:1313/post/bootstrap-5.3.0/</loc>
-    <lastmod>2026-01-07T16:58:25+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>http://192.168.178.118:1313/authors/mark-otto/</loc>
-    <lastmod>2026-01-07T16:58:25+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>http://192.168.178.118:1313/categories/the-bootstrap-blog/</loc>
-    <lastmod>2026-01-07T16:58:25+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
     <loc>http://192.168.178.118:1313/post/hugo-v0.100.2/</loc>
     <lastmod>2026-01-07T11:36:27+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://192.168.178.118:1313/tags/bootstrap/</loc>
+    <lastmod>2026-01-07T12:16:28+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>

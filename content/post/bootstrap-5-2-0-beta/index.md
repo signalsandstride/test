@@ -4,10 +4,10 @@ description: "It’s the biggest release since v5 itself—Bootstrap v5.2.0-beta
 date: 2022-05-13T13:00:44+01:00
 draft: false
 images: ["bootstrap-5-2-0-beta.png"]
-categories: ["The Bootstrap Blog"]
-tags: ["Bootstrap"]
+categories: ["Running"]
+tags: ["Running"]
 keywords: ["bootstrap 5 2 0 beta","bootstrap 5","bootstrap"]
-authors: ["Mark Otto"]
+authors: ["Giuseppe Torres"]
 noindex: true
 ---
 
