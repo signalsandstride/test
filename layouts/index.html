@@ -1,0 +1,38 @@
+{{ define "main" }}
+
+<section class="section bd-masthead">
+  <div class="container-xxl">
+    <div class="col-md-8 mx-auto text-center my-5">
+      <img class="d-block mx-auto mb-3" src="{{ `images/logo1.png` | relURL }}" width="150" height="150" alt="Bootstrap">
+      <h1 class="display-4 fw-semibold mb-3">{{ .Site.Title }}</h1>
+      <p class="lead mb-4">{{ .Site.Params.Description }}</p>
+      <a class="btn btn-bd-primary btn-lg px-4 mb-2" href="#" role="button">Running & Training
+      <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-download" viewBox="0 0 16 16">
+        <path d="M.5 9.9a.5.5 0 0 1 .5.5v2.5a1 1 0 0 0 1 1h12a1 1 0 0 0 1-1v-2.5a.5.5 0 0 1 1 0v2.5a2 2 0 0 1-2 2H2a2 2 0 0 1-2-2v-2.5a.5.5 0 0 1 .5-.5"/>
+        <path d="M7.646 11.854a.5.5 0 0 0 .708 0l3-3a.5.5 0 0 0-.708-.708L8.5 10.293V1.5a.5.5 0 0 0-1 0v8.793L5.354 8.146a.5.5 0 1 0-.708.708z"/>
+      </svg> 
+      </a>
+      <p class="text-muted mb-0">Download the free pdf Guide.</p>
+    </div>
+  </div>
+</section>
+
+<section class="section container my-2">
+  {{ partial "features" . }}
+</section>
+
+<section class="section container my-2">
+  <h3 class="text-secondary text-center my-5">Latest Posts</h3>
+  {{ partial "latest-posts" . }}
+</section>
+
+<section class="section container my-2">
+  <h3 class="text-secondary text-center my-5">Featured Pages</h3>
+  {{ partial "featured-pages" . }}
+</section>
+
+<section>
+  {{ partial "register" . }}
+</section>
+
+{{ end }}

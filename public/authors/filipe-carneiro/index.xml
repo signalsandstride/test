@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Filipe Carneiro on Signals &amp; Stride</title>
+    <link>http://192.168.178.118:1313/authors/filipe-carneiro/</link>
+    <description>Recent content in Filipe Carneiro on Signals &amp; Stride</description>
+    <generator>Hugo</generator>
+    <language>en-US</language>
+    <copyright>Open-source &lt;a class=&#34;text-muted text-decoration-none&#34; href=&#34;https://github.com/filipecarneiro/hugo-bootstrap-theme/blob/main/LICENSE&#34;&gt;MIT&lt;/a&gt; Licensed.</copyright>
+    <atom:link href="http://192.168.178.118:1313/authors/filipe-carneiro/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hugo Bootstrap Theme</title>
+      <link>http://192.168.178.118:1313/post/hugo-bootstrap-theme/</link>
+      <pubDate>Sun, 22 May 2022 13:35:02 +0100</pubDate>
+      <guid>http://192.168.178.118:1313/post/hugo-bootstrap-theme/</guid>
+      <description>Hugo theme for a secure, blazing fast and SEO-ready static website, using Bootstrap 5.&#xA;Open-source MIT Licensed Hugo Theme, using Bootstrap 5.&#xA;🏃🏻 ️Running over 40&#xA;Adults 40-65 wanting sustainable fitness&#xA;⚡ Fast by default&#xA;Get 100 scores on Google Lighthouse by default. Hugo Bootstrap Theme removes unused css, prefetches links, and lazy loads images.&#xA;📈 SEO-ready&#xA;Use sensible defaults for structured data, open graph, and Twitter cards. Or easily change the Search Engine Optimization settings to your liking.</description>
+    </item>
+    <item>
+      <title>Docs</title>
+      <link>http://192.168.178.118:1313/page/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://192.168.178.118:1313/page/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Posts</title>
+      <link>http://192.168.178.118:1313/post/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://192.168.178.118:1313/post/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

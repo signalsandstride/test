@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <sitemap>
+    <loc>http://192.168.178.118:1313/en/sitemap.xml</loc>
+    
+      <lastmod>2026-01-03T23:37:39+00:00</lastmod>
+    
+  </sitemap>
+  
+  <sitemap>
+    <loc>http://192.168.178.118:1313/pt/sitemap.xml</loc>
+    
+      <lastmod>2026-01-03T11:25:01+00:00</lastmod>
+    
+  </sitemap>
+  
+</sitemapindex>
