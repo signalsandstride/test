@@ -4,8 +4,8 @@
     https://realfavicongenerator.net/svg-favicon/
 -->
 {{ if (os.FileExists "static/favicon.svg") -}}
-    <link rel="icon" type="image/svg+xml" href="{{ `favicon.svg` | absURL }}">
+    <link rel="icon" type="image/svg+xml" href="{{ `favicon.svg` | relURL }}">
 {{ end -}}
 {{ if (os.FileExists "static/favicon.png") -}}
-    <link rel="icon" type="image/png" href="/head/favicon-96x96.png" sizes="96x96">
+    <link rel="icon" type="image/png" sizes="96x96" href="{{ "favicon.png" | relURL }}">
 {{ end -}}
