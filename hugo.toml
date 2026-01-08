@@ -1,0 +1,4 @@
+baseURL = 'https://signalsandstride.github.io/test'
+languageCode = 'en-us'
+title = 'My New Hugo Site'
+theme ='hugo-bootstrap-theme'
