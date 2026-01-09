@@ -4,10 +4,10 @@ description: ""
 date: 2023-09-24
 draft: false
 images: ["hugo-logo.png"]
-categories: ["Hugo Release Notes"]
-tags: ["Hugo"]
+categories: ["Health"]
+tags: ["Health"]
 keywords: ["hugo v0.119"]
-authors: ["Bjørn Erik Pedersen"]
+authors: ["Giuseppe Torres"]
 ---
 
 ![Hugo](hugo-logo.svg)

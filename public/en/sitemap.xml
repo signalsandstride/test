@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://192.168.178.118:1313/authors/</loc>
-    <lastmod>2026-01-08T19:57:52+00:00</lastmod>
+    <lastmod>2026-01-09T09:43:16+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -18,7 +18,7 @@
                 />
   </url><url>
     <loc>http://192.168.178.118:1313/categories/</loc>
-    <lastmod>2026-01-08T19:57:52+00:00</lastmod>
+    <lastmod>2026-01-09T09:37:39+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -33,7 +33,7 @@
                 />
   </url><url>
     <loc>http://192.168.178.118:1313/authors/giuseppe-torres/</loc>
-    <lastmod>2026-01-08T19:57:52+00:00</lastmod>
+    <lastmod>2026-01-08T20:07:59+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -48,7 +48,7 @@
     <priority>0.5</priority>
   </url><url>
     <loc>http://192.168.178.118:1313/tags/</loc>
-    <lastmod>2026-01-08T19:57:52+00:00</lastmod>
+    <lastmod>2026-01-09T09:43:16+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -62,53 +62,53 @@
                 href="http://192.168.178.118:1313/tags/"
                 />
   </url><url>
-    <loc>http://192.168.178.118:1313/authors/bj%C3%B8rn-erik-pedersen/</loc>
-    <lastmod>2026-01-07T11:36:27+00:00</lastmod>
+    <loc>http://192.168.178.118:1313/tags/health/</loc>
+    <lastmod>2026-01-08T20:05:07+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://192.168.178.118:1313/tags/hugo/</loc>
-    <lastmod>2026-01-07T12:16:28+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>http://192.168.178.118:1313/categories/hugo-release-notes/</loc>
-    <lastmod>2026-01-07T11:36:27+00:00</lastmod>
+    <loc>http://192.168.178.118:1313/categories/health/</loc>
+    <lastmod>2026-01-08T20:05:07+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>http://192.168.178.118:1313/post/hugo-v0.119.0/</loc>
-    <lastmod>2026-01-03T11:25:01+00:00</lastmod>
+    <lastmod>2026-01-08T20:05:07+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>http://192.168.178.118:1313/post/hugo-v0.100.2/</loc>
-    <lastmod>2026-01-07T11:36:27+00:00</lastmod>
+    <lastmod>2026-01-08T20:04:07+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>http://192.168.178.118:1313/tags/bootstrap/</loc>
-    <lastmod>2026-01-07T12:16:28+00:00</lastmod>
+    <lastmod>2026-01-09T09:37:39+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://192.168.178.118:1313/tags/featured/</loc>
-    <lastmod>2026-01-07T12:16:28+00:00</lastmod>
+    <loc>http://192.168.178.118:1313/tags/hugo/</loc>
+    <lastmod>2026-01-09T09:37:39+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>http://192.168.178.118:1313/categories/hugo-bootstrap-theme/</loc>
-    <lastmod>2026-01-07T12:16:28+00:00</lastmod>
+    <lastmod>2026-01-09T09:37:39+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>http://192.168.178.118:1313/post/hugo-bootstrap-theme/</loc>
-    <lastmod>2026-01-07T12:16:28+00:00</lastmod>
+    <lastmod>2026-01-09T09:37:39+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://192.168.178.118:1313/post/hugo-v0.99.1/</loc>
-    <lastmod>2026-01-03T11:25:01+00:00</lastmod>
+    <loc>http://192.168.178.118:1313/tags/techies/</loc>
+    <lastmod>2026-01-08T20:07:59+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://192.168.178.118:1313/categories/techies/</loc>
+    <lastmod>2026-01-08T20:07:59+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -128,12 +128,12 @@
                 />
   </url><url>
     <loc>http://192.168.178.118:1313/page/bootstrap-carousel/</loc>
-    <lastmod>2026-01-03T11:25:01+00:00</lastmod>
+    <lastmod>2026-01-09T09:39:03+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>http://192.168.178.118:1313/page/bootstrap-components/</loc>
-    <lastmod>2026-01-03T11:25:01+00:00</lastmod>
+    <lastmod>2026-01-09T09:39:43+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -147,8 +147,8 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://192.168.178.118:1313/page/</loc>
-    <lastmod>2026-01-03T11:25:01+00:00</lastmod>
+    <loc>http://192.168.178.118:1313/tags/features/</loc>
+    <lastmod>2026-01-09T09:40:48+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -173,17 +173,22 @@
                 />
   </url><url>
     <loc>http://192.168.178.118:1313/page/hugo-front-matter/</loc>
-    <lastmod>2026-01-03T11:25:01+00:00</lastmod>
+    <lastmod>2026-01-09T09:40:17+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>http://192.168.178.118:1313/tags/index/</loc>
-    <lastmod>2026-01-03T11:25:01+00:00</lastmod>
+    <lastmod>2026-01-09T09:43:16+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>http://192.168.178.118:1313/page/markdown-cheat-sheet/</loc>
-    <lastmod>2026-01-03T11:25:01+00:00</lastmod>
+    <lastmod>2026-01-09T09:40:38+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://192.168.178.118:1313/page/</loc>
+    <lastmod>2026-01-09T09:43:16+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -203,7 +208,7 @@
     <priority>0.5</priority>
   </url><url>
     <loc>http://192.168.178.118:1313/page/security-best-practices/</loc>
-    <lastmod>2026-01-03T11:25:01+00:00</lastmod>
+    <lastmod>2026-01-09T09:40:48+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>

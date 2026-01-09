@@ -1,6 +1,6 @@
 +++
 aliases = ["pages", "docs"]
-title = "Docs"
+title = "Pages"
 authors = ["Filipe Carneiro"]
 tags = ["index"]
 +++

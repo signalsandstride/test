@@ -40,7 +40,7 @@ parent = "blog"
 
 [[main]]
 identifier = "docs"
-name = "Docs"
+name = "Pages"
 url = "page"
 weight = 50
 

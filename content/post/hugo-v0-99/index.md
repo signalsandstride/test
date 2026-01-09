@@ -4,10 +4,11 @@ description: ""
 date: 2022-05-18
 draft: false
 images: ["hugo-logo.png"]
-categories: ["Hugo Release Notes"]
-tags: ["Hugo"]
+categories: ["Techies"]
+tags: ["Techies"]
 keywords: ["hugo v0.99"]
-authors: ["Bjørn Erik Pedersen"]
+authors: ["Giuseppe Torres"]
+noindex : true
 aliases:
   - post/hugo-0-99-1
 ---
