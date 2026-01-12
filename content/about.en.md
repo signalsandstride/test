@@ -1,6 +1,6 @@
 ---
 title: "About"
-draft: false
+layout: "home"
 ---
 
 # About Us

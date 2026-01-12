@@ -46,14 +46,14 @@ weight = 50
 
 [[social]]
   name = "Email"
-  pre = "<svg xmlns='http://www.w3.org/2000/svg' class='feather feather-twitter'><use href='images/feather/feather-sprite.svg#mail'/></svg>"
+  pre = "<svg xmlns='http://www.w3.org/2000/svg' class='feather feather-twitter'><use href='/images/feather/feather-sprite.svg#mail'/></svg>"
   url = "mailto:name@example.com"
   weight = 20
   title = "Contact via Email"
 
 [[social]]
   name = "Facebook"
-  pre = "<svg xmlns='http://www.w3.org/2000/svg' class='feather feather-github'><use href='images/feather/feather-sprite.svg#facebook'/></svg>"
+  pre = "<svg xmlns='http://www.w3.org/2000/svg' class='feather feather-github'><use href='/images/feather/feather-sprite.svg#facebook'/></svg>"
   url = "https://facebook.com/"
   weight = 40
   title = "Visit our Facebook page"
